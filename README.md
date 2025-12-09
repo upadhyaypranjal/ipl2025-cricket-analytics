@@ -162,8 +162,8 @@ LIMIT 5;
 Engineering Student & Sports Analytics Enthusiast  
 📌 Passionate about cricket + data 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/pranjalupadhyay0142)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/upadhyaypranjal)
 
 ---
 
@@ -197,9 +197,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any queries or suggestions, feel free to reach out:
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: pranjal2004upadhyay@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/pranjalupadhyay0142
+- 🐦 Twitter: https://twitter.com/upadhyaypranjal
 
 ---
 
